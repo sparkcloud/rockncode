@@ -1,0 +1,1455 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=jazz&offset=0&limit=50&type=artist&market=US",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 328819
+      },
+      "genres" : [ "bebop", "cool jazz", "jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/0kbYTNQb4Pb1rPbbaF0pT4",
+      "id" : "0kbYTNQb4Pb1rPbbaF0pT4",
+      "images" : [ {
+        "height" : 1496,
+        "url" : "https://i.scdn.co/image/b1a46506d9efc8a783db76e3d059ce2ffdd33f92",
+        "width" : 1000
+      }, {
+        "height" : 958,
+        "url" : "https://i.scdn.co/image/238e8af17f2b6d31f5aea6dda9c54f0cc9f4cbd4",
+        "width" : 640
+      }, {
+        "height" : 299,
+        "url" : "https://i.scdn.co/image/893d7fa2befb02cf7394a9af7fc5478eeb620b25",
+        "width" : 200
+      }, {
+        "height" : 96,
+        "url" : "https://i.scdn.co/image/87321e29d600e4f09ba669cafddc71c532d93e1b",
+        "width" : 64
+      } ],
+      "name" : "Miles Davis",
+      "popularity" : 69,
+      "type" : "artist",
+      "uri" : "spotify:artist:0kbYTNQb4Pb1rPbbaF0pT4"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 177293
+      },
+      "genres" : [ "bebop", "contemporary post-bop", "cool jazz", "hard bop", "jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/2hGh5VOeeqimQFxqXvfCUf",
+      "id" : "2hGh5VOeeqimQFxqXvfCUf",
+      "images" : [ {
+        "height" : 861,
+        "url" : "https://i.scdn.co/image/7e382ceb66144d69df35e61677d3cf5d91f4d403",
+        "width" : 723
+      }, {
+        "height" : 762,
+        "url" : "https://i.scdn.co/image/4aeb90188a7d11b07c8d365b9e793fa4af14c5f9",
+        "width" : 640
+      }, {
+        "height" : 238,
+        "url" : "https://i.scdn.co/image/9b90ff4da7042657cebba3852e67179baa59c4d5",
+        "width" : 200
+      }, {
+        "height" : 76,
+        "url" : "https://i.scdn.co/image/e3469aa307431ac2164fea5c88c7aea130e523a5",
+        "width" : 64
+      } ],
+      "name" : "John Coltrane",
+      "popularity" : 67,
+      "type" : "artist",
+      "uri" : "spotify:artist:2hGh5VOeeqimQFxqXvfCUf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 94647
+      },
+      "genres" : [ "big band" ],
+      "href" : "https://api.spotify.com/v1/artists/4F7Q5NV6h5TSwCainz8S5A",
+      "id" : "4F7Q5NV6h5TSwCainz8S5A",
+      "images" : [ {
+        "height" : 1154,
+        "url" : "https://i.scdn.co/image/24186cb1f6b21981d4d4eb2e008dfd3fa5bd004a",
+        "width" : 1000
+      }, {
+        "height" : 739,
+        "url" : "https://i.scdn.co/image/6534726edbe9be9366ba3ebe401d7c3c9399537f",
+        "width" : 640
+      }, {
+        "height" : 231,
+        "url" : "https://i.scdn.co/image/775d601130300778e7e39aa8fb081bf7ae8a019d",
+        "width" : 200
+      }, {
+        "height" : 74,
+        "url" : "https://i.scdn.co/image/e9e25f9e482adf23cbd68ce65b93bfb796487f5e",
+        "width" : 64
+      } ],
+      "name" : "Duke Ellington",
+      "popularity" : 65,
+      "type" : "artist",
+      "uri" : "spotify:artist:4F7Q5NV6h5TSwCainz8S5A"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 52112
+      },
+      "genres" : [ "cool jazz", "jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/4jXfFzeP66Zy67HM2mvIIF",
+      "id" : "4jXfFzeP66Zy67HM2mvIIF",
+      "images" : [ {
+        "height" : 721,
+        "url" : "https://i.scdn.co/image/5a43baa92481b9eb715d74c8e91ab01153fc4157",
+        "width" : 1000
+      }, {
+        "height" : 461,
+        "url" : "https://i.scdn.co/image/a9e41f1c4c2665f275ceb8744e656e516c86bb3b",
+        "width" : 639
+      }, {
+        "height" : 144,
+        "url" : "https://i.scdn.co/image/1673000981abf2d7c78998e3c00b92dcc8087d8e",
+        "width" : 200
+      }, {
+        "height" : 46,
+        "url" : "https://i.scdn.co/image/6e3507521bb7f59cc29c71e6021f4c0cf5bd9af4",
+        "width" : 64
+      } ],
+      "name" : "Bill Evans",
+      "popularity" : 63,
+      "type" : "artist",
+      "uri" : "spotify:artist:4jXfFzeP66Zy67HM2mvIIF"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 96278
+      },
+      "genres" : [ "contemporary post-bop", "jazz christmas", "jazz funk", "jazz fusion" ],
+      "href" : "https://api.spotify.com/v1/artists/2ZvrvbQNrHKwjT7qfGFFUW",
+      "id" : "2ZvrvbQNrHKwjT7qfGFFUW",
+      "images" : [ {
+        "height" : 1271,
+        "url" : "https://i.scdn.co/image/ac71797b76b5a4b50776d26241e38425a098b251",
+        "width" : 1000
+      }, {
+        "height" : 814,
+        "url" : "https://i.scdn.co/image/32fccb5b90c631046ab17f3c9e8204a0c2cc1caf",
+        "width" : 640
+      }, {
+        "height" : 254,
+        "url" : "https://i.scdn.co/image/39f8a397c155e96189fd0907459bcb5d094f7ae3",
+        "width" : 200
+      }, {
+        "height" : 81,
+        "url" : "https://i.scdn.co/image/b29bda698859efc7f64eaad03057306744740229",
+        "width" : 64
+      } ],
+      "name" : "Herbie Hancock",
+      "popularity" : 62,
+      "type" : "artist",
+      "uri" : "spotify:artist:2ZvrvbQNrHKwjT7qfGFFUW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 62334
+      },
+      "genres" : [ "bebop", "contemporary post-bop", "cool jazz", "hard bop", "jazz", "stride" ],
+      "href" : "https://api.spotify.com/v1/artists/4PDpGtF16XpqvXxsrFwQnN",
+      "id" : "4PDpGtF16XpqvXxsrFwQnN",
+      "images" : [ {
+        "height" : 1182,
+        "url" : "https://i.scdn.co/image/c295fa32f8416f013b8906d0621c77f6b1dc0550",
+        "width" : 1000
+      }, {
+        "height" : 756,
+        "url" : "https://i.scdn.co/image/b1242cbc68d7d9f7c16dccf6663c342f80051fed",
+        "width" : 640
+      }, {
+        "height" : 236,
+        "url" : "https://i.scdn.co/image/18f7c2a57d164dd4b67c50c5486ee46d603d2094",
+        "width" : 200
+      }, {
+        "height" : 76,
+        "url" : "https://i.scdn.co/image/0bdcc2735701dcfe5319c69d310314f3c5cbabb3",
+        "width" : 64
+      } ],
+      "name" : "Thelonious Monk",
+      "popularity" : 59,
+      "type" : "artist",
+      "uri" : "spotify:artist:4PDpGtF16XpqvXxsrFwQnN"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5F2NibweoFxPSnRBrk9Fia"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14134
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5F2NibweoFxPSnRBrk9Fia",
+      "id" : "5F2NibweoFxPSnRBrk9Fia",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a59551eb4530df7eb19d6876f59a8708027cad8e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/25b44fcea0b0dcbbc0f19d3faa9518bee36d8cfe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/d2fb750a4417284f135e540bafe63943270943bc",
+        "width" : 64
+      } ],
+      "name" : "Smooth Jazz Sax Instrumentals",
+      "popularity" : 54,
+      "type" : "artist",
+      "uri" : "spotify:artist:5F2NibweoFxPSnRBrk9Fia"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6AxGu0jqKp1dvqdq7c5vVs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 314
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6AxGu0jqKp1dvqdq7c5vVs",
+      "id" : "6AxGu0jqKp1dvqdq7c5vVs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2c008ca9139163225c910e5417174e2cd84d3bfb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d3e57de536201928970bae81bdb1d356681cdd94",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/19bdad28d0606e73127785ce4a9f87b5ee206fcf",
+        "width" : 64
+      } ],
+      "name" : "Stockholm Jazz Quartet",
+      "popularity" : 56,
+      "type" : "artist",
+      "uri" : "spotify:artist:6AxGu0jqKp1dvqdq7c5vVs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2KlMFqKbIT56GASrI47IsY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 29922
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2KlMFqKbIT56GASrI47IsY",
+      "id" : "2KlMFqKbIT56GASrI47IsY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9de4fe1be083ce106d666edfd3a44bbc971227e5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/725f51a2126cb5c60fce5084b3e662445f1e448c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/adf492c611ccef20d152cb0970354403d4aafc7e",
+        "width" : 64
+      } ],
+      "name" : "New York Jazz Lounge",
+      "popularity" : 58,
+      "type" : "artist",
+      "uri" : "spotify:artist:2KlMFqKbIT56GASrI47IsY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1452
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0sc5zYshOdiFD4ayqMrJbJ",
+      "id" : "0sc5zYshOdiFD4ayqMrJbJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/303f546bcfcdd3e34300c6ee824462df91be246f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f6e12559eeb7a7be2a4024398b76dc4139f76638",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/34ddba37ded5c6f5bc872ad3b3807d749e2e9896",
+        "width" : 64
+      } ],
+      "name" : "Jazz Cartier",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:0sc5zYshOdiFD4ayqMrJbJ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 182
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2sLufQ8lc6cZL6YIO1oD65",
+      "id" : "2sLufQ8lc6cZL6YIO1oD65",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/5e109c4e7e5180fb465f771f6e5dab3a7c9c5202",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/0725263eebd01ae52007aabba868f70a429cba5d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/113444f8864bebc18e4680f84f944d3818ba9603",
+        "width" : 64
+      } ],
+      "name" : "Space Jazz Trio",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:2sLufQ8lc6cZL6YIO1oD65"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14520
+      },
+      "genres" : [ "new orleans jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/2S0rCVs10P1Q0v51wmOrM5",
+      "id" : "2S0rCVs10P1Q0v51wmOrM5",
+      "images" : [ {
+        "height" : 750,
+        "url" : "https://i.scdn.co/image/8fc46dd4b439c1061a6dee3405b161aab4002b2e",
+        "width" : 1000
+      }, {
+        "height" : 480,
+        "url" : "https://i.scdn.co/image/5fb9417a65edb450c53e1843a3b2d25f12cae9b8",
+        "width" : 640
+      }, {
+        "height" : 150,
+        "url" : "https://i.scdn.co/image/fb901163916894c0ecdb3e066dd889820f186782",
+        "width" : 200
+      }, {
+        "height" : 48,
+        "url" : "https://i.scdn.co/image/ae957ec0ba90c8977e8867255bf7887e9d7c18e6",
+        "width" : 64
+      } ],
+      "name" : "Preservation Hall Jazz Band",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:2S0rCVs10P1Q0v51wmOrM5"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 11180
+      },
+      "genres" : [ "bebop", "hard bop" ],
+      "href" : "https://api.spotify.com/v1/artists/6ykfXAed2KOLOMI3R0TZdz",
+      "id" : "6ykfXAed2KOLOMI3R0TZdz",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d82f9e3929f592cceb7187dfda7b92680cefb154",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/10b58dc4bc687ec3d9fa06d72bd791549fedff59",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6ee8e9bac3a9775c67a7a0db94b4efb9ea9e3ddf",
+        "width" : 64
+      } ],
+      "name" : "Art Blakey & The Jazz Messengers",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:6ykfXAed2KOLOMI3R0TZdz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1EJY1WcqU1y3P5GKl1VqzE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 793
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1EJY1WcqU1y3P5GKl1VqzE",
+      "id" : "1EJY1WcqU1y3P5GKl1VqzE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/265d44599e68afd9e8d79b693c9bc021e895b6fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/2c0a556dea9fb7d2306f67481d997a8b5dbd37b9",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f463c1746f7bae723027ed3e22a82e9d1778d53b",
+        "width" : 64
+      } ],
+      "name" : "Instrumental Jazz Music Ambient",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:1EJY1WcqU1y3P5GKl1VqzE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/34sVLBqZtc87fuLMoocehK"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3431
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/34sVLBqZtc87fuLMoocehK",
+      "id" : "34sVLBqZtc87fuLMoocehK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/c21ade266918cce940d0ce7ccf7c16257f8275ab",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/049fb23f3cec17bd00ba14d6a014272f466662c3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0e09550a4882c8fbd27677d8eb2740068921b053",
+        "width" : 64
+      } ],
+      "name" : "Smooth Jazz Motown Instrumentals",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:34sVLBqZtc87fuLMoocehK"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6wq0ypfSKR1Baqi4qoJWsq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 10648
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6wq0ypfSKR1Baqi4qoJWsq",
+      "id" : "6wq0ypfSKR1Baqi4qoJWsq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f965552fc453ccde5455dcc37b5df9765998f6b7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/2c4a9151771bfd933e0d8988e464d95b269924cf",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/2635945e8b36a12019147b9fe83909acd2ec4a8f",
+        "width" : 64
+      } ],
+      "name" : "Jazz Liberatorz",
+      "popularity" : 45,
+      "type" : "artist",
+      "uri" : "spotify:artist:6wq0ypfSKR1Baqi4qoJWsq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7877
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3Bhgbs9kIwl8SuU0eIqN6b",
+      "id" : "3Bhgbs9kIwl8SuU0eIqN6b",
+      "images" : [ {
+        "height" : 1349,
+        "url" : "https://i.scdn.co/image/842c225767ccd8241fd4ba4a1e595e995482a6d1",
+        "width" : 1000
+      }, {
+        "height" : 863,
+        "url" : "https://i.scdn.co/image/87e398718faf245924596b5f37804a4dc1ed6950",
+        "width" : 640
+      }, {
+        "height" : 270,
+        "url" : "https://i.scdn.co/image/5823dbc572257920b29643c0929bee14675f8731",
+        "width" : 200
+      }, {
+        "height" : 86,
+        "url" : "https://i.scdn.co/image/8977e35c6a8778a6f0d810451beded08d3d84b44",
+        "width" : 64
+      } ],
+      "name" : "The Crusaders",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:3Bhgbs9kIwl8SuU0eIqN6b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3uoY3Ibj2qOK3bb47cpKs6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6183
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3uoY3Ibj2qOK3bb47cpKs6",
+      "id" : "3uoY3Ibj2qOK3bb47cpKs6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/accbbd995950f144aae0d10935148aa864437c72",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/94e834127b085b1238f1f2bc5cbf70a16360da75",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/f6107bbec5d28e486948b326fa8af860fd87f261",
+        "width" : 64
+      } ],
+      "name" : "All That Jazz",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:3uoY3Ibj2qOK3bb47cpKs6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VxVeqKxqdKXKrPKFf8N5N"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2228
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2VxVeqKxqdKXKrPKFf8N5N",
+      "id" : "2VxVeqKxqdKXKrPKFf8N5N",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4970ddfed5813ee39b3600f666da297c3d814c20",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/70ba3a485a85fb53903c22402b58cef1c5d68ba5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3ac1b5e7329a2ef7ac76cb45585c835a48c18498",
+        "width" : 64
+      } ],
+      "name" : "Relaxing Piano Jazz Music Ensemble",
+      "popularity" : 44,
+      "type" : "artist",
+      "uri" : "spotify:artist:2VxVeqKxqdKXKrPKFf8N5N"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 8590
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6zpPKMhpOoG646kJgZ7RKf",
+      "id" : "6zpPKMhpOoG646kJgZ7RKf",
+      "images" : [ {
+        "height" : 668,
+        "url" : "https://i.scdn.co/image/a39ad5a7034b7baf043221f491d185c43c2fdac2",
+        "width" : 1000
+      }, {
+        "height" : 427,
+        "url" : "https://i.scdn.co/image/63505d9629b90649f93c4f7414ddb5d0ac919158",
+        "width" : 639
+      }, {
+        "height" : 134,
+        "url" : "https://i.scdn.co/image/c6c42afbeeb8f91ebd754e15a457940d637ff33a",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/bec237d7334cbd63374e6c3246139e9de2480a0b",
+        "width" : 64
+      } ],
+      "name" : "Johnny Hates Jazz",
+      "popularity" : 47,
+      "type" : "artist",
+      "uri" : "spotify:artist:6zpPKMhpOoG646kJgZ7RKf"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4Cq0kwodFSousUew1qqg5b"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 566
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4Cq0kwodFSousUew1qqg5b",
+      "id" : "4Cq0kwodFSousUew1qqg5b",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fec23caf746706e28a89dfb7fa30ed78895bad5f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/fd17a8dd9ac2acbd19883d068c2c3faa49f6ccde",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/01233dfe73c8a69ce990ac1336a5ca66c91a09a7",
+        "width" : 64
+      } ],
+      "name" : "Jazz Piano Bar Academy",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:4Cq0kwodFSousUew1qqg5b"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Vwzevb84qtK9lTNbh9Oba"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 161
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Vwzevb84qtK9lTNbh9Oba",
+      "id" : "0Vwzevb84qtK9lTNbh9Oba",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/33c0484e8a0ce193390ac64407cac5a9af278bdb",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/96da339b48d4ea50f4ee28606e8561ee3b706da2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/43d25c40a30b36851fde0c36896e1352770252f6",
+        "width" : 64
+      } ],
+      "name" : "Relaxing Jazz Guitar Academy",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Vwzevb84qtK9lTNbh9Oba"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Rs76Oxre5c3NSPunYCJgc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 242
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6Rs76Oxre5c3NSPunYCJgc",
+      "id" : "6Rs76Oxre5c3NSPunYCJgc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/0406de1f3da230361aae76be5b769bb1a9b09273",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/1df5799abd8bc5d2aa5e15b39e874da362e561fe",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c8b616c2215703a6d70d0a957fd83ba1f60cd4c9",
+        "width" : 64
+      } ],
+      "name" : "Blue Claw Jazz",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:6Rs76Oxre5c3NSPunYCJgc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 14835
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7wBFjZMHsC6nfV0HOSd6uI",
+      "id" : "7wBFjZMHsC6nfV0HOSd6uI",
+      "images" : [ {
+        "height" : 1116,
+        "url" : "https://i.scdn.co/image/5417ce334713f1a7607c0dc5e1ee83a2e1f93d92",
+        "width" : 1000
+      }, {
+        "height" : 714,
+        "url" : "https://i.scdn.co/image/6d8501395fbd0bec306441e3da641a372b9d8f16",
+        "width" : 640
+      }, {
+        "height" : 223,
+        "url" : "https://i.scdn.co/image/f108282fe414cec80a646f737b3ca309177245fb",
+        "width" : 200
+      }, {
+        "height" : 71,
+        "url" : "https://i.scdn.co/image/b4226aa7486e2b18173269abbff20a49f9c0fe4e",
+        "width" : 64
+      } ],
+      "name" : "The Modern Jazz Quartet",
+      "popularity" : 41,
+      "type" : "artist",
+      "uri" : "spotify:artist:7wBFjZMHsC6nfV0HOSd6uI"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5as7SW1R7ACUdkVtmcG7TG"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5665
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5as7SW1R7ACUdkVtmcG7TG",
+      "id" : "5as7SW1R7ACUdkVtmcG7TG",
+      "images" : [ {
+        "height" : 667,
+        "url" : "https://i.scdn.co/image/8c56eaa5aeca7dfc9fcf4d32a9a622a870711e16",
+        "width" : 1000
+      }, {
+        "height" : 427,
+        "url" : "https://i.scdn.co/image/39b85f8a39aa96a7cecb3594b8223a1b092b9a1e",
+        "width" : 640
+      }, {
+        "height" : 133,
+        "url" : "https://i.scdn.co/image/e51d4d6e25aa91fa741170209bc3851574133945",
+        "width" : 200
+      }, {
+        "height" : 43,
+        "url" : "https://i.scdn.co/image/1931e36329992ffb821b421e15d9e1de82b6853e",
+        "width" : 64
+      } ],
+      "name" : "Adult Jazz",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:5as7SW1R7ACUdkVtmcG7TG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2kv76yu02aAV64iuzSqR5n"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 579
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2kv76yu02aAV64iuzSqR5n",
+      "id" : "2kv76yu02aAV64iuzSqR5n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/87c400392498ace9ea1b1dedc26611a7469ef7f4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/30f4eff9f8922f1b991e420b1f855cc9e6666f72",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ba77e16d007b580b9652eab5c728788ac077c8e1",
+        "width" : 64
+      } ],
+      "name" : "Smooth Jazz Band",
+      "popularity" : 43,
+      "type" : "artist",
+      "uri" : "spotify:artist:2kv76yu02aAV64iuzSqR5n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1TcclDiTafgfcj0gKi9fGp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 81
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1TcclDiTafgfcj0gKi9fGp",
+      "id" : "1TcclDiTafgfcj0gKi9fGp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ca09a301f321c9c99a4e9cb6957109e47ffadbce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/3d6d0447958bf01323a9a796bb94d0314230e972",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/006d62716f94a4b70593617e899b69708d4eedf2",
+        "width" : 64
+      } ],
+      "name" : "Jazz Guitar Club",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:1TcclDiTafgfcj0gKi9fGp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6GFXTUdGD3D7wGH7PB2KO6"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 144
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6GFXTUdGD3D7wGH7PB2KO6",
+      "id" : "6GFXTUdGD3D7wGH7PB2KO6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ef2c75aff89a732d35b54a9d6f8881ca5f478093",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/17f6dbf6ba6e1ca59ec7e54059372d1af4b60e19",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/436e427248ee483588a811133f6bd17842b13706",
+        "width" : 64
+      } ],
+      "name" : "Classical Jazz Guitar Club",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:6GFXTUdGD3D7wGH7PB2KO6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0Ns8NU0xY7iP5KcY66fLnp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1447
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0Ns8NU0xY7iP5KcY66fLnp",
+      "id" : "0Ns8NU0xY7iP5KcY66fLnp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9242acba7141b9c5da7d06b5da80d6e59afa345f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/de51453c45829670122d5bf9574f630d02df62a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0468b1cece3d4db9a66defeff40207b95c4bc8c4",
+        "width" : 64
+      } ],
+      "name" : "Light Jazz Academy",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:0Ns8NU0xY7iP5KcY66fLnp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0SLHeCwwiwjCElg072D2g7"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1732
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0SLHeCwwiwjCElg072D2g7",
+      "id" : "0SLHeCwwiwjCElg072D2g7",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/196e5ad34c6a419c4f7c0fe037a8f460fd0cfc48",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/83c493591c166ac14f9ea064d03d84cd07f7d309",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cbb0b377b5f2d4d18cfb0a03a16f596ce35f7bfd",
+        "width" : 64
+      } ],
+      "name" : "Gypsy Jazz Caravan",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:0SLHeCwwiwjCElg072D2g7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5acQyWx4sroRu8WqTJTH4c"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1623
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5acQyWx4sroRu8WqTJTH4c",
+      "id" : "5acQyWx4sroRu8WqTJTH4c",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/c2c5a0defbe41ffff8a295e04266da1f622b4433",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/472af753a0e08469217048725a851aa6ee83aa18",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c8631a3e8d94b7bee20aa0b80c29eea3e5934d52",
+        "width" : 64
+      } ],
+      "name" : "Jazz Lounge Music Club Chicago",
+      "popularity" : 46,
+      "type" : "artist",
+      "uri" : "spotify:artist:5acQyWx4sroRu8WqTJTH4c"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3MPz2g2zq2YLvNYePufCjp"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2110
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3MPz2g2zq2YLvNYePufCjp",
+      "id" : "3MPz2g2zq2YLvNYePufCjp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/3410824c6028ca126f4e7bf53dee00c7a429f0ff",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d525d6410838e5bc10b0f1c66adda1770f8a8cc3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/a6042249b6e1f0eb3f936a5b5a9f9ef3cad10596",
+        "width" : 64
+      } ],
+      "name" : "Coffee Shop Jazz",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:3MPz2g2zq2YLvNYePufCjp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qv9iaoqsUME1JgN8ZZbYZ"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 639
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3qv9iaoqsUME1JgN8ZZbYZ",
+      "id" : "3qv9iaoqsUME1JgN8ZZbYZ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/16410cbd1100d151637430c8a94ebd3c10896e74",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/c462b7fe7dfac19fa366188758413b16b0772d23",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/33b8d41da2b0134f5a081be06876bce6c318fb38",
+        "width" : 64
+      } ],
+      "name" : "Piano Jazz Calming Music Academy",
+      "popularity" : 39,
+      "type" : "artist",
+      "uri" : "spotify:artist:3qv9iaoqsUME1JgN8ZZbYZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1302
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/49vIrnZPb9Tcc9N30t7E3S",
+      "id" : "49vIrnZPb9Tcc9N30t7E3S",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9cdcfc4827cc0c3422b2766f3da6ad9e1044ae2a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/7d587cb57b7f9c7ef712d72ffc2b7bede923d39b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/75445feaf22d81871d5777502819a2568641c5c7",
+        "width" : 64
+      } ],
+      "name" : "Jazz Spastiks",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:49vIrnZPb9Tcc9N30t7E3S"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/242IHI2Sw9Dd8jzwNBej2D"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1377
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/242IHI2Sw9Dd8jzwNBej2D",
+      "id" : "242IHI2Sw9Dd8jzwNBej2D",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fe95eb523976bf5f5b92ca5c91a78bbb8dc0189a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/85255a08c08e4b66cd95da7ea30f75845b6ca36f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/851594e8e677b824df4f3e6f7113f116286e9fcf",
+        "width" : 64
+      } ],
+      "name" : "Dinner Jazz",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:242IHI2Sw9Dd8jzwNBej2D"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/73RyRc7Y3jURKFye44dAIE"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 956
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/73RyRc7Y3jURKFye44dAIE",
+      "id" : "73RyRc7Y3jURKFye44dAIE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a712e5da4c1c688fb310869e57231f0c904eb8af",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/6a8091feba504db86f94a966758428a024c7633a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/2c4252e4acf952ddc596199b5de47237a284bb04",
+        "width" : 64
+      } ],
+      "name" : "The Soft Jazz Candle Light Romantic Music Band",
+      "popularity" : 40,
+      "type" : "artist",
+      "uri" : "spotify:artist:73RyRc7Y3jURKFye44dAIE"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 466
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6MnWA8xVW1sEzV9s7wXpQb",
+      "id" : "6MnWA8xVW1sEzV9s7wXpQb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a2fca4d79287c77a47cd620dd8ee76be9facc3a4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/19cb746f53ae0c810f3d51c7e1f0dfef84bc7871",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7057c21ba247169c020c5edd24e8689bdf477d5c",
+        "width" : 64
+      } ],
+      "name" : "Jazz At Lincoln Center Orchestra",
+      "popularity" : 33,
+      "type" : "artist",
+      "uri" : "spotify:artist:6MnWA8xVW1sEzV9s7wXpQb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6aOI0sNqqplLeqMAovs3iW"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2496
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6aOI0sNqqplLeqMAovs3iW",
+      "id" : "6aOI0sNqqplLeqMAovs3iW",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b292f530a6cc4e4e8b5a486335afce0de35ed096",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/cb45a92d63a94e07dfb711a8fb757cecd6f1d914",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/81f01c0563f2edb688e7ac804070248b2284581c",
+        "width" : 64
+      } ],
+      "name" : "Neo Soul Acid Jazz Collective",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6aOI0sNqqplLeqMAovs3iW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7etiJl46wJTMAfn0uZomVk"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 932
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7etiJl46wJTMAfn0uZomVk",
+      "id" : "7etiJl46wJTMAfn0uZomVk",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/9f3d6117728144abbf9739702894c661a948643c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/a4256cf59d3dd5f93981e1aad7cfb74080c52194",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/906acf1d50925223baa2bc67f5fc5b15dac124d9",
+        "width" : 64
+      } ],
+      "name" : "Exam Study Soft Jazz Music",
+      "popularity" : 34,
+      "type" : "artist",
+      "uri" : "spotify:artist:7etiJl46wJTMAfn0uZomVk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/37YPRC79OnoHT6wT5ia0xX"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 5825
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/37YPRC79OnoHT6wT5ia0xX",
+      "id" : "37YPRC79OnoHT6wT5ia0xX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4a09a0e029da69159cc96496fbf0b5fa03479ebc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/643889fe9792e6e7d85242e4b03df8a14e0ca271",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cb1556e2493414875482dc20640dfb2627f608fd",
+        "width" : 64
+      } ],
+      "name" : "Cuban Jazz Combo",
+      "popularity" : 42,
+      "type" : "artist",
+      "uri" : "spotify:artist:37YPRC79OnoHT6wT5ia0xX"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/36FImpNR10or96C5LOaT3F"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2679
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/36FImpNR10or96C5LOaT3F",
+      "id" : "36FImpNR10or96C5LOaT3F",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/3f7c6c0d46fd57930832862b648d799aab8017be",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/664e320bb77634a7ac7af536e1af0a54ccacc55b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/204b498e8718fee1c3f6d9972a6ec7b3abb13f17",
+        "width" : 64
+      } ],
+      "name" : "Chill Out Jazz Quartet",
+      "popularity" : 50,
+      "type" : "artist",
+      "uri" : "spotify:artist:36FImpNR10or96C5LOaT3F"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0OZ4SS6ur6bPiPaWeQIn93"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 163
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0OZ4SS6ur6bPiPaWeQIn93",
+      "id" : "0OZ4SS6ur6bPiPaWeQIn93",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/51efca02a4f8e63e2087a44b5d7242410b3bfd54",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/a5b6aae97b17f5e49a8a148e6736170b1ca48f89",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/088ebd5d6edcab7370214741355c66ff953ab1a1",
+        "width" : 64
+      } ],
+      "name" : "Good Morning Jazz Academy",
+      "popularity" : 36,
+      "type" : "artist",
+      "uri" : "spotify:artist:0OZ4SS6ur6bPiPaWeQIn93"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0higANuaOqI1ye1LxB46Aj"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 2336
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0higANuaOqI1ye1LxB46Aj",
+      "id" : "0higANuaOqI1ye1LxB46Aj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f3fe31cd5891142716afc4c785304ec806fffc95",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/9cb9d6917d56217dd0b0ea5f6dac5b66e1fac9a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/13aeec56b64c4009d6c775ac0d82e09809871ba9",
+        "width" : 64
+      } ],
+      "name" : "Michael Silverman Jazz Piano Trio",
+      "popularity" : 37,
+      "type" : "artist",
+      "uri" : "spotify:artist:0higANuaOqI1ye1LxB46Aj"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ZM0bBCqjv5MpnHc4fkxWs"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 607
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4ZM0bBCqjv5MpnHc4fkxWs",
+      "id" : "4ZM0bBCqjv5MpnHc4fkxWs",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/497ded37f8d7bec2fa8e5c6731ffb297b45b20fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d145d551555fef371518b7a9bdabeac16e1b99a4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4b4950faa2a99f4a629db650d8b3291db6bd2ddf",
+        "width" : 64
+      } ],
+      "name" : "The Smooth Jazz Dinner Players",
+      "popularity" : 38,
+      "type" : "artist",
+      "uri" : "spotify:artist:4ZM0bBCqjv5MpnHc4fkxWs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7dZ2aTAaMncMr9WlaseCTM"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 683
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7dZ2aTAaMncMr9WlaseCTM",
+      "id" : "7dZ2aTAaMncMr9WlaseCTM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4c39830a1785fc5629342333893cc293b801b847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f7546549a009575396eca0eb1a25db595146e60f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c60f8a08148c0a693eb3d54cae35d5cad6c93426",
+        "width" : 64
+      } ],
+      "name" : "Jazz Guitar",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:7dZ2aTAaMncMr9WlaseCTM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7pYCCfn6BMRxE6oMMU8ebR"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3398
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7pYCCfn6BMRxE6oMMU8ebR",
+      "id" : "7pYCCfn6BMRxE6oMMU8ebR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/a4a8801412e5281e164fbb77bbf58df09ee4cfe4",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/93ac3ecafd51ec61694a30ed32388d58a40429d3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/312d9c47db6c13c7b532de95fcaf9865c1483a95",
+        "width" : 64
+      } ],
+      "name" : "Brazilian Jazz",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:7pYCCfn6BMRxE6oMMU8ebR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6HTqDlK6LS0Ju7P58XXW2T"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 359
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6HTqDlK6LS0Ju7P58XXW2T",
+      "id" : "6HTqDlK6LS0Ju7P58XXW2T",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/5e0f443c462382bc7cfd85d0705345e5f3c96b2c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/9ff0a3fed2bbc273c6475a18a90e025ce386e612",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/1806f7248657db53cd9bcb5cd96190c3dca97ab4",
+        "width" : 64
+      } ],
+      "name" : "Jazz for Babies",
+      "popularity" : 35,
+      "type" : "artist",
+      "uri" : "spotify:artist:6HTqDlK6LS0Ju7P58XXW2T"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1OGuNbASgvINcHfDtrDnj3"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1113
+      },
+      "genres" : [ "west african jazz" ],
+      "href" : "https://api.spotify.com/v1/artists/1OGuNbASgvINcHfDtrDnj3",
+      "id" : "1OGuNbASgvINcHfDtrDnj3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/96db074ed1bc8f9acf04fece0af86ec2251564d6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/79cce69e8a32461fcc87029b1c2b37b5cce29f7d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/50142dbb32ca5cba652858463a2c0ed1c554a98d",
+        "width" : 64
+      } ],
+      "name" : "Bembeya Jazz National",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:1OGuNbASgvINcHfDtrDnj3"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/46LdvxTiU430bletagAk9R"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 16
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/46LdvxTiU430bletagAk9R",
+      "id" : "46LdvxTiU430bletagAk9R",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/793dc53922ccd9e0c309154c9ca1c44f2315c3ce",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/06c29e4ff76149fff794062b3b4fa38caa739825",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/fde7342f3a87bb79f787a4b9283db3e5ee0aecaa",
+        "width" : 64
+      } ],
+      "name" : "@Jazz",
+      "popularity" : 24,
+      "type" : "artist",
+      "uri" : "spotify:artist:46LdvxTiU430bletagAk9R"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1809
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/112yP6AwAT6QG34fiGGpmh",
+      "id" : "112yP6AwAT6QG34fiGGpmh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/c618d3c2228281603691f32551ce2c6e3a55a4d1",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/bfc85c57835dfa5d170eb7265331436861ae3812",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9edb7ff6b3a98d4f704d60ffb9dda9d77f59eb8c",
+        "width" : 64
+      } ],
+      "name" : "Original Dixieland Jazz Band",
+      "popularity" : 31,
+      "type" : "artist",
+      "uri" : "spotify:artist:112yP6AwAT6QG34fiGGpmh"
+    } ],
+    "limit" : 50,
+    "next" : "https://api.spotify.com/v1/search?query=jazz&offset=50&limit=50&type=artist&market=US",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 4183
+  }
+}
